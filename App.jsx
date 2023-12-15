@@ -7,13 +7,13 @@ const App = () => {
             <h1>Above It All</h1>
             <Card 
                 song_cover_art=""
-                song_title=""
+                song_title="Lost In The World"
                 album_icon=""
-                album_name=""
+                album_name="My Beautiful Dark Twisted Fantasy"
                 artist_icon=""
-                artist_name=""
+                artist_name="Kanye West"
                 genre_icon=""
-                genre_name=""
+                genre_name="Baroque Rap"
             />
         </div>
     )
